@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+}
+.top {
+    background-color: lightblue;
+    padding: 50px 0px 50px 0px;
+    font-family: "Sofia", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: grey;
+}
+
+.middle {
+    background-color: lightskyblue;
+    font-family: "Exo", serif;
+    padding: 50px 0px 50px 0px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
+
+.moreskills {
+    background-color: lightblue;
+    font-family: "Exo", serif;
+    padding: 50px 0px 50px 0px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
+
+h3 {
+    color: darkcyan;
+}
+
+a {
+    color:hotpink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellowgreen;
+}
+
+.new {
+    max-width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    background-color:  whitesmoke;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+hr {
+    border-top: 30px dotted black;
+    background-color: lightpink;
+    border-color: #555;
+    margin: 0;
+}
+
+.img1 {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+.img2 {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 400px;
+    height: 400px;
+}
+
+.img3 {
+    border-radius: 50px;
+}
+
+.languages {
+    column-count: 2;
+    padding-left: 40%;
+}
+
+.left1 {
+    float: left;
+}
+
+.right1 {
+    float: right;
+    padding-right: 320px;
+}
+
+.leadership {
+    column-count: 2;
+    padding-left: 40%;
+}
+
+.left2 {
+    float: left;
+}
+
+.right2 {
+    float: right;
+    padding-right: 150px;
+}
+
+.skills2 {
+    column-count: 2;
+    padding-left: 40%;
+}
+
+.left3 {
+    float: left;
+}
+
+.right3 {
+    float: right;
+    padding-right: 100px;
+}
+
+.bottom {
+    text-align: center;
+    background-color: gray;
+    padding: 1px 5px 1px 5px;
+    border-top: 5px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
+
+.contactbottom {
+    background-color: lightblue;
+    font-family: "Exo", serif;
+    padding: 50px 0px 250px 45%;
+    font-size: 25px;
+}
+
+.right4 {
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
